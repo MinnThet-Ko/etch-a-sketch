@@ -1,0 +1,11 @@
+#grid-container {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+}
+
+.grid-row-container{
+    display: flex;
+    flex-direction: row;
+}
