@@ -1,6 +1,8 @@
 #grid-container {
     display: flex;
     flex-direction: column;
+    height: 960px;
+    width: 96opx;
     align-content: center;
     justify-content: center;
 }
